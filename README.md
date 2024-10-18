@@ -179,3 +179,6 @@ Planners can be very heavy on performance when using many entities, which isn't 
 Special thanks to Mikail Kahya who piqued my interest by showing me the video about GOAP.
 
 Thank you for reading my explanation. I hope you have a great day.
+---
+
+Note: This research is under a Creative Commons license, that means you can redistribute and build upon this work as long as you reference the original author.
